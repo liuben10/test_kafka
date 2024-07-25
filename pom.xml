@@ -1,0 +1,17 @@
+<project>
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.test_kafka</groupId>
+    <artifactId>test_kafka</artifactId>
+    <version>1</version>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients -->
+        <dependency>
+            <groupId>org.apache.kafka</groupId>
+            <artifactId>kafka-clients</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+    </dependencies>
+
+</project>
